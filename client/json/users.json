@@ -1,0 +1,37 @@
+[
+  {
+    "_id": "524ae33f2e75106200ade071",
+    "password": "passwd",
+    "is_active": false,
+    "email": "mary@demo.org",
+    "role": 1
+  },
+  {
+    "_id": "524ae33f2e75106200ade072",
+    "password": "foobar",
+    "is_active": true,
+    "email": "wendy@abc.com",
+    "role": 2
+  },
+  {
+    "_id": "524ae33f2e75106200ade073",
+    "password": "passwd",
+    "is_active": false,
+    "email": "dustin@demo.org",
+    "role": 2
+  },
+  {
+    "_id": "524ae33f2e75106200ade074",
+    "password": "passwd",
+    "is_active": true,
+    "email": "jenny@demo.org",
+    "role": 2
+  },
+  {
+    "_id": "524ae33f2e75106200ade075",
+    "password": "blah",
+    "is_active": true,
+    "email": "fred@gmail.ca",
+    "role": 2
+  }
+]

@@ -15,3 +15,14 @@ test books:
 JavaScript Testing with Jasmine V
 JavaScript Unit Testing 
 Developing an AngularJS Edge
+
+Jasmine, mocha, Karma
+
+Unit test Angular with Karma and Jasmine.
+[1]install karma
+npm install -g karma
+
+[2] create a config.js file
+karma init karma.config.js
+
+
